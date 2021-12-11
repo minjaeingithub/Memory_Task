@@ -1,4 +1,4 @@
-# Memory_Task
+# 🧠 Memory_Task
 ### 🧪 EXPERIMENT INTRO
 Hi, I am Minjae Jo, a junior student @SungKyunKwan University. As a part of Undergraduate Research Program, I checked out human working memory(WM). In specific, whether discrete categories are decodable with EEG oscillations was the main topic. 
 
