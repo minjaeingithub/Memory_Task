@@ -4,7 +4,7 @@ Hi, I am Minjae Jo, a junior student @SungKyunKwan University. As a part of Unde
 
 
 
-For 2 categories, human brain made a decoder(called as MVPA by JR King). Also temporal generalization was successful.
+For 2 categories, human brain made a decoder(called as MVPA by J.R- King). Also temporal generalization was successful.
 
 
 Speaking of tools I used, Brainstorm, Fieldtrip for preprocessing were used. For data analysis, I used ML model - Classification with Support Vector Machine(SVM).
