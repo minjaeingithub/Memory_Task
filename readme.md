@@ -9,7 +9,7 @@ For 2 categories, human brain made a decoder(called as MVPA by J.R- King). Also 
 
 Speaking of tools I used, Brainstorm, Fieldtrip for preprocessing were used. For data analysis, I used ML model - Classification with Support Vector Machine(SVM).
 Subject information is confidential, thus bare codes will be shared here. (Specific tunings are excluded)
-FYI, I am especially interested in replay mechanisms in human brain. Further studies(including those I participate to), need to find out whether finding replay mechanisms with EEG is possible or not! Fingers crossed🤞! 
+FYI, I am especially interested in replay mechanisms in human brain. Further studies(including those I jump into), need to find out whether finding replay mechanisms with EEG is possible or not! Fingers crossed🤞! 
 
 
 ### 💻 CODE INTRODUCTION
